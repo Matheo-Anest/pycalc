@@ -13,3 +13,8 @@ def soustraction(nb1,signe,nb2):
     if signe=='-':
         return nb1-nb2
     return None
+
+def multiplication(nb1,signe,nb2):
+    if signe=='*':
+        return nb1*nb2
+    return None
